@@ -24,7 +24,7 @@ The results are logged into a text file for easy reference and future analysis.
 ### Run the Script
 Execute the script in a Python environment:
 ```bash
-python steam_badge_tracker.py
+python steam_badge_checker.py
 ```
 
 ### View Results
